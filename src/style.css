@@ -1,3 +1,7 @@
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+}
 p {
   font-weight: normal;
   font-size: 16px;
@@ -23,7 +27,6 @@ p {
 }
 
 .hero h1 {
-  font-family: "Playfair Display", serif;
   font-weight: bold;
   font-size: 96px;
 }
@@ -34,4 +37,13 @@ p {
   padding: 15px 30px;
   font-size: 18px;
   line-height: 27px;
+}
+.project-description {
+  padding: 160px 20px;
+}
+.btn-branding-outline {
+  border: 1px solid #6c63ff;
+  color: #6c63ff;
+  border-radius: 4px;
+  padding: 15px 30px;
 }
